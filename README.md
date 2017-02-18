@@ -2,10 +2,14 @@
 Given a triangle of numbers, find the maximum total from top to bottom
 Example:
 
-   6
-  3 5
- 9 7 1
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6
+
+&nbsp;&nbsp;&nbsp;3 5
+
+&nbsp;&nbsp;9 7 1
+
 4 6 8 4 
+
 In this triangle the maximum total is 6 + 5 + 7 + 8 = 26
 
 An element can only be summed with one of the two nearest elements in the next row
